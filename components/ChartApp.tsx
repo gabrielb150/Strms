@@ -47,7 +47,7 @@ export default function ChartApp({ initialWeek, weeks }: Props) {
   async function loadWeek(week: string) {
     setLoading(true);
     try {
-      const res = await fetch(`/data/weeks/${week}.json`);
+      const res = await fetch(`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/data/weeks/${week}.json`);
       if (!res.ok) throw new Error(String(res.status));
       setData((await res.json()) as WeekFile);
     } catch (e) {

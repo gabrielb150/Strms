@@ -89,11 +89,17 @@ npm run rebuild
 
 ---
 
-## Deploy on Vercel
+## Where the site lives
+
+**Live site: https://gabrielb150.github.io/Strms/** (GitHub Pages, free).
+
+The `Deploy site to GitHub Pages` workflow rebuilds and publishes it on every push to `main` and after every weekly update. Nothing to set up.
+
+## Deploy on Vercel or Netlify instead (optional)
 
 1. The code lives at [github.com/gabrielb150/Strms](https://github.com/gabrielb150/Strms).
 2. In GitHub: repo → **Settings → Actions → General → Workflow permissions** → choose **Read and write permissions** (the weekly job needs to commit the new week).
-3. On [vercel.com](https://vercel.com): **Add New → Project**, pick the repository, keep the defaults (`vercel.json` already sets the build) and click **Deploy**. The site needs no keys; it only reads the files in `data/`.
+3. On [vercel.com](https://vercel.com): **Add New → Project**, pick the repository, keep the defaults (`vercel.json` already sets the build) and click **Deploy**. On Netlify: build command `npm run build`, publish directory `out`. The site needs no keys; it only reads the files in `data/`.
 
 From then on, every weekly commit redeploys the site automatically. If you'd rather use a Vercel **Deploy Hook**, add its URL as a GitHub secret named `VERCEL_DEPLOY_HOOK_URL` and the workflow will call it.
 
