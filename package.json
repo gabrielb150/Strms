@@ -1,5 +1,5 @@
 {
-  "name": "music-charts",
+  "name": "strms",
   "version": "0.1.0",
   "private": true,
   "description": "Personal combined weekly music chart (Spotify, Apple Music, YouTube) built from free public data.",

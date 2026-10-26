@@ -1,4 +1,4 @@
-# Combined Charts
+# Strms
 
 A personal weekly music chart: the **Top 100 artists and Top 100 songs across Spotify, Apple Music and YouTube**, combined into one chart, with a breakdown per platform.
 
@@ -91,10 +91,9 @@ npm run rebuild
 
 ## Deploy on Vercel
 
-1. Put this folder in a GitHub repository and push it.
+1. The code lives at [github.com/gabrielb150/Strms](https://github.com/gabrielb150/Strms).
 2. In GitHub: repo → **Settings → Actions → General → Workflow permissions** → choose **Read and write permissions** (the weekly job needs to commit the new week).
 3. On [vercel.com](https://vercel.com): **Add New → Project**, pick the repository, keep the defaults (`vercel.json` already sets the build) and click **Deploy**. The site needs no keys; it only reads the files in `data/`.
-4. In `config/pipeline.json`, replace `YOUR_GITHUB_USER` in the `userAgent` with your GitHub user name, so the data sources can see who is fetching.
 
 From then on, every weekly commit redeploys the site automatically. If you'd rather use a Vercel **Deploy Hook**, add its URL as a GitHub secret named `VERCEL_DEPLOY_HOOK_URL` and the workflow will call it.
 

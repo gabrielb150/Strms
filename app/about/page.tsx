@@ -2,7 +2,7 @@ import scoring from "@/config/scoring.json";
 import { loadWeek, weekIndex } from "@/lib/data";
 import { weekRange } from "@/lib/format";
 
-export const metadata = { title: "About the data · Combined Charts" };
+export const metadata = { title: "About the data · Strms" };
 
 export default function About() {
   const latest = weekIndex().latest;

@@ -1,5 +1,5 @@
 {
-  "userAgent": "PersonalMusicCharts/0.1 (+https://github.com/YOUR_GITHUB_USER/music-charts; personal, non-commercial)",
+  "userAgent": "Strms/0.1 (+https://github.com/gabrielb150/Strms; personal, non-commercial)",
   "requestDelayMs": 2500,
   "sources": {
     "kworb-spotify": {

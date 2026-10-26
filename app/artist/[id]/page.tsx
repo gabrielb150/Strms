@@ -15,7 +15,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
   const p = artistProfiles().get(id);
-  return { title: p ? `${p.artist.name} · Combined Charts` : "Artist" };
+  return { title: p ? `${p.artist.name} · Strms` : "Artist" };
 }
 
 const PROFILE_URL: Record<PlatformId, (id: string) => string> = {

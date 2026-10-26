@@ -7,7 +7,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin", "latin-ext"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
-  title: "Combined Charts",
+  title: "Strms",
   description: "Weekly Top 100 artists and songs across Spotify, Apple Music and YouTube, combined into one chart.",
 };
 
@@ -31,8 +31,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <header className="sticky top-0 z-40 border-b border-zinc-200/80 bg-zinc-50/85 backdrop-blur dark:border-zinc-800/80 dark:bg-zinc-950/85">
           <nav className="mx-auto flex h-14 max-w-6xl items-center gap-3 px-4">
             <Link href="/" className="flex items-center gap-2 font-semibold tracking-tight">
-              <span className="grid size-7 place-items-center rounded-lg bg-accent text-sm font-bold text-white">C</span>
-              <span className="whitespace-nowrap">Combined Charts</span>
+              <span className="grid size-7 place-items-center rounded-lg bg-accent text-sm font-bold text-white">S</span>
+              <span className="whitespace-nowrap">Strms</span>
             </Link>
             <div className="ml-auto flex items-center gap-1 text-sm">
               <Link href="/" className="whitespace-nowrap rounded-md px-2.5 py-1.5 text-zinc-600 hover:bg-zinc-200/60 hover:text-zinc-900 dark:text-zinc-400 dark:hover:bg-zinc-800 dark:hover:text-zinc-100">Charts</Link>
