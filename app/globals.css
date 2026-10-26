@@ -1,0 +1,74 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --color-spotify: #1db954;
+  --color-apple: #fa2d48;
+  --color-youtube: #ff0033;
+  --color-accent: #7c5cff;
+}
+
+:root {
+  color-scheme: light;
+}
+.dark {
+  color-scheme: dark;
+}
+
+body {
+  @apply bg-zinc-50 text-zinc-900 antialiased dark:bg-zinc-950 dark:text-zinc-100;
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Tooltip for exact numbers: works on hover and on tap/focus (mobile). */
+.num-tip {
+  position: relative;
+  cursor: help;
+  text-decoration: underline dotted transparent;
+  text-underline-offset: 3px;
+}
+.num-tip:hover,
+.num-tip:focus {
+  text-decoration-color: currentColor;
+  outline: none;
+}
+.num-tip::after {
+  content: attr(data-exact);
+  position: absolute;
+  bottom: calc(100% + 6px);
+  right: 0;
+  z-index: 30;
+  white-space: nowrap;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-size: 12px;
+  font-weight: 500;
+  background: #18181b;
+  color: #fafafa;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(2px);
+  transition: opacity 0.12s, transform 0.12s;
+}
+.dark .num-tip::after {
+  background: #f4f4f5;
+  color: #18181b;
+}
+.num-tip:hover::after,
+.num-tip:focus::after {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.num-tip.tip-wide::after {
+  white-space: normal;
+  width: 220px;
+  text-transform: none;
+  letter-spacing: normal;
+  line-height: 1.35;
+}

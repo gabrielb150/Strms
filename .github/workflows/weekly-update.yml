@@ -1,0 +1,91 @@
+name: Weekly chart update
+
+on:
+  schedule:
+    # Every Friday 18:00 UTC, plus a Saturday 15:00 UTC retry in case a source published late.
+    # The Saturday run does nothing if Friday already built the week. Change the times here.
+    - cron: "0 18 * * 5"
+    - cron: "0 15 * * 6"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Rebuild the latest week even if it already exists"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: weekly-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - run: npm ci
+
+      - name: Run tests
+        run: npm test
+
+      - name: Fetch sources and build the week
+        id: pipeline
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          CHARTMETRIC_REFRESH_TOKEN: ${{ secrets.CHARTMETRIC_REFRESH_TOKEN }}
+          LUMINATE_API_KEY: ${{ secrets.LUMINATE_API_KEY }}
+        run: npm run pipeline -- ${{ inputs.force && '--force' || '' }}
+
+      - name: Check the site still builds
+        if: steps.pipeline.outputs.status == 'built'
+        run: npm run build
+
+      - name: Commit the new week
+        if: steps.pipeline.outputs.status == 'built'
+        run: |
+          git config user.name "chart-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "Chart week ending ${{ steps.pipeline.outputs.week }}"
+          git push
+
+      # Vercel redeploys automatically on every push when the repo is connected to a Vercel project.
+      # If you prefer a deploy hook instead, add a VERCEL_DEPLOY_HOOK_URL secret.
+      - name: Trigger Vercel deploy hook (optional)
+        if: steps.pipeline.outputs.status == 'built' && env.HOOK != ''
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
+        run: curl -fsS -X POST "$HOOK" > /dev/null
+
+      - name: Report sources that were left out
+        if: steps.pipeline.outputs.status == 'built' && steps.pipeline.outputs.excluded != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          body="Week ending ${{ steps.pipeline.outputs.week }} was published without: ${{ steps.pipeline.outputs.excluded }}. See the run log: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          gh label create source-warning --color FBCA04 --force > /dev/null
+          num=$(gh issue list --label source-warning --state open --json number --jq '.[0].number')
+          if [ -n "$num" ]; then gh issue comment "$num" --body "$body"; else gh issue create --title "Chart sources missing" --label source-warning --body "$body"; fi
+
+      # On failure nothing is committed, so last week's chart stays live. Open (or update) an issue.
+      - name: Open an issue on failure
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          err=$(cat data/logs/last-error.txt 2>/dev/null || echo "See the run log.")
+          body=$(printf 'The weekly chart update failed, so the previous week is still live.\n\nRun: %s\n\n```\n%s\n```' "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" "$err")
+          gh label create pipeline-failure --color D73A4A --force > /dev/null
+          num=$(gh issue list --label pipeline-failure --state open --json number --jq '.[0].number')
+          if [ -n "$num" ]; then gh issue comment "$num" --body "$body"; else gh issue create --title "Weekly chart update failed" --label pipeline-failure --body "$body"; fi

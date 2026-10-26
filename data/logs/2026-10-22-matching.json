@@ -1,0 +1,1988 @@
+{
+ "week": "2026-10-22",
+ "generatedAt": "2026-10-26T00:00:27.448Z",
+ "unmatched": [
+  {
+   "platform": "apple",
+   "raw": "JADE - Angel Of My Dreams",
+   "rank": 47,
+   "value": null,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-jade--angel-of-my-dreams"
+  },
+  {
+   "platform": "apple",
+   "raw": "Bad Bunny - Yonaguni",
+   "rank": 49,
+   "value": null,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-bad-bunny--yonaguni"
+  },
+  {
+   "platform": "apple",
+   "raw": "Imael Angel - BAD TIMES",
+   "rank": 53,
+   "value": null,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-imael-angel--bad-times"
+  },
+  {
+   "platform": "apple",
+   "raw": "Drake - Quebec",
+   "rank": 56,
+   "value": null,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-drake--quebec"
+  },
+  {
+   "platform": "apple",
+   "raw": "Olivia Dean - Nice To Each Other",
+   "rank": 57,
+   "value": null,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-olivia-dean--nice-to-each-other"
+  },
+  {
+   "platform": "apple",
+   "raw": "Season 25 - Shotta's.",
+   "rank": 64,
+   "value": null,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-season-25--shottas"
+  },
+  {
+   "platform": "apple",
+   "raw": "Tate McRae - greedy",
+   "rank": 66,
+   "value": null,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-tate-mcrae--greedy"
+  },
+  {
+   "platform": "apple",
+   "raw": "Shaboozey - A Bar Song",
+   "rank": 68,
+   "value": null,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-shaboozey--a-bar-song"
+  },
+  {
+   "platform": "apple",
+   "raw": "Vacra & La Rvfleuze - Fille à Papa",
+   "rank": 70,
+   "value": null,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-vacra--fille-a-papa"
+  },
+  {
+   "platform": "apple",
+   "raw": "Drake, Don Toliver & Yebba - Cold Shoulder",
+   "rank": 74,
+   "value": null,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-drake--cold-shoulder"
+  },
+  {
+   "platform": "apple",
+   "raw": "The Weeknd - Wicked Games",
+   "rank": 77,
+   "value": null,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-the-weeknd--wicked-games"
+  },
+  {
+   "platform": "apple",
+   "raw": "Bebe Rexha & Faithless - New Religion",
+   "rank": 84,
+   "value": null,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-bebe-rexha--new-religion"
+  },
+  {
+   "platform": "apple",
+   "raw": "Olivia Dean - A Couple Minutes",
+   "rank": 91,
+   "value": null,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-olivia-dean--a-couple-minutes"
+  },
+  {
+   "platform": "apple",
+   "raw": "Tiakola - Mélo Décalé",
+   "rank": 92,
+   "value": null,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-tiakola--melo-decale"
+  },
+  {
+   "platform": "apple",
+   "raw": "Morgan Wallen - Last Night",
+   "rank": 99,
+   "value": null,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-morgan-wallen--last-night"
+  },
+  {
+   "platform": "apple",
+   "raw": "Bad Bunny & Bomba Estéreo - Ojitos Lindos",
+   "rank": 100,
+   "value": null,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-bad-bunny--ojitos-lindos"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Shweta Mohan - Endhayya Saami",
+   "rank": null,
+   "value": 9255496,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-shweta-mohan--endhayya-saami"
+  },
+  {
+   "platform": "youtube",
+   "raw": "G. V. Prakash Kumar - YAALALO YAALALO",
+   "rank": null,
+   "value": 9179577,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-g-v-prakash-kumar--yaalalo-yaalalo"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Krsna - Boom Shaka",
+   "rank": null,
+   "value": 8307800,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-krsna--boom-shaka"
+  },
+  {
+   "platform": "youtube",
+   "raw": "jeninho - Peão Todo Tatuado",
+   "rank": null,
+   "value": 8230520,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-jeninho--peao-todo-tatuado"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Køddy G - Peli De Terror",
+   "rank": null,
+   "value": 7969470,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-køddy-g--peli-de-terror"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Eypio - Şahidim",
+   "rank": null,
+   "value": 7397697,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-eypio--sahidim"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Siri Xander - Pesamale",
+   "rank": null,
+   "value": 7287322,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-siri-xander--pesamale"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Shilpi Raj - Barbadi Hoi",
+   "rank": null,
+   "value": 7154285,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-shilpi-raj--barbadi-hoi"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Mitta Ror - Sheesha (Aakhya Mai Aakh Ghali Jo Bairan)",
+   "rank": null,
+   "value": 7045874,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-mitta-ror--sheesha"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Bintu Pabra - Kabze",
+   "rank": null,
+   "value": 6890746,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-bintu-pabra--kabze"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Anand Bhaskar - Vaaroon Forever",
+   "rank": null,
+   "value": 6787001,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-anand-bhaskar--vaaroon-forever"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Junior H - DEMENCIA",
+   "rank": null,
+   "value": 6582398,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-junior-h--demencia"
+  },
+  {
+   "platform": "youtube",
+   "raw": "EBiDAN Ebisu Gakuen Boys Club - Yes! 東京 (feat. SUPER DRAGON, Sakurashimeji, ONE N' ONLY, BUDDiiS, ICEx & Lienel)",
+   "rank": null,
+   "value": 6410672,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ebidan-ebisu-gakuen-boys-club--yes-東京"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Masoom Sharma - Mithe Tere Bol Pari",
+   "rank": null,
+   "value": 6368191,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-masoom-sharma--mithe-tere-bol-pari"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Asrar - Afghan Jalebi (Ya Baba)",
+   "rank": null,
+   "value": 6350128,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-asrar--afghan-jalebi"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Raushan Rohi - Nach Nagin Jaisan",
+   "rank": null,
+   "value": 6281999,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-raushan-rohi--nach-nagin-jaisan"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Himesh Reshammiya - Hookah Bar",
+   "rank": null,
+   "value": 6245019,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-himesh-reshammiya--hookah-bar"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Netto Brito - Mega Hair (Ao Vivo)",
+   "rank": null,
+   "value": 6194241,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-netto-brito--mega-hair-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Shreya Ghoshal - Nagada Sang Dhol",
+   "rank": null,
+   "value": 6140917,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-shreya-ghoshal--nagada-sang-dhol"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Fuerza Regida - caperuza",
+   "rank": null,
+   "value": 6095727,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-fuerza-regida--caperuza"
+  },
+  {
+   "platform": "youtube",
+   "raw": "MC Leozinho ZS - Ta Pedindo Toma",
+   "rank": null,
+   "value": 5892306,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-mc-leozinho-zs--ta-pedindo-toma"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Kamal Khan - Ishq Sufiyana",
+   "rank": null,
+   "value": 5807287,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-kamal-khan--ishq-sufiyana"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Sai Abhyankkar - Karuppa Kooda Va",
+   "rank": null,
+   "value": 5773850,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-sai-abhyankkar--karuppa-kooda-va"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Navjot Ahuja - Khat",
+   "rank": null,
+   "value": 5487269,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-navjot-ahuja--khat"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Amir Jamal - Kaho Na Kaho",
+   "rank": null,
+   "value": 5462203,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-amir-jamal--kaho-na-kaho"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Fuerza Regida - ANSIEDAD",
+   "rank": null,
+   "value": 5434848,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-fuerza-regida--ansiedad"
+  },
+  {
+   "platform": "youtube",
+   "raw": "CRUSH - Benim Olsana",
+   "rank": null,
+   "value": 5431588,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-crush--benim-olsana"
+  },
+  {
+   "platform": "youtube",
+   "raw": "K.K. - Dil Ibaadat",
+   "rank": null,
+   "value": 5417414,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-k-k--dil-ibaadat"
+  },
+  {
+   "platform": "youtube",
+   "raw": "YAJU-MC - INMU KING",
+   "rank": null,
+   "value": 5408165,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-yaju-mc--inmu-king"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Atif Aslam - Tere Sang Yaara",
+   "rank": null,
+   "value": 5392644,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-atif-aslam--tere-sang-yaara"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Darshan Raval - Chogada",
+   "rank": null,
+   "value": 5201558,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-darshan-raval--chogada"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Jósean Log - Doma",
+   "rank": null,
+   "value": 5201491,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-josean-log--doma"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Nishant Mukta - UP Wali Laiki",
+   "rank": null,
+   "value": 5174646,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-nishant-mukta--up-wali-laiki"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Noor - Aarzu",
+   "rank": null,
+   "value": 5168147,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-noor--aarzu"
+  },
+  {
+   "platform": "youtube",
+   "raw": "D Naveen - 80 Lakh",
+   "rank": null,
+   "value": 5091805,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-d-naveen--80-lakh"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Polo Montañez - Un Montón de Estrellas",
+   "rank": null,
+   "value": 5079379,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-polo-montanez--un-monton-de-estrellas"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Ilaiyaraaja - Kalyana Virundhu",
+   "rank": null,
+   "value": 5023592,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ilaiyaraaja--kalyana-virundhu"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Lil Naay - UNA BABY EN SANTIAGO",
+   "rank": null,
+   "value": 4913579,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-lil-naay--una-baby-en-santiago"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Brytiago - Estoy Pa' Ti",
+   "rank": null,
+   "value": 4778685,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-brytiago--estoy-pa-ti"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Pawan Singh - Bihari Ke Dum",
+   "rank": null,
+   "value": 4762771,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-pawan-singh--bihari-ke-dum"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Saurav Srisan - Rathinamo (Female Version)",
+   "rank": null,
+   "value": 4715602,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-saurav-srisan--rathinamo"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Dalvin La Melodia - Alma Rota",
+   "rank": null,
+   "value": 4714367,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-dalvin-la-melodia--alma-rota"
+  },
+  {
+   "platform": "youtube",
+   "raw": "BLOK3 - Değiştiremezsin Yazılmışsa",
+   "rank": null,
+   "value": 4707740,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-blok3--degistiremezsin-yazılmıssa"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Ajay Gogavale - Lallati Bhandar",
+   "rank": null,
+   "value": 4629548,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ajay-gogavale--lallati-bhandar"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Rey Vaqueiro - Príncipe Encantado",
+   "rank": null,
+   "value": 4564211,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-rey-vaqueiro--principe-encantado"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Srishti Bharti - गुलाबी नगर",
+   "rank": null,
+   "value": 4525633,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-srishti-bharti--ग-ल-ब-नगर"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Feid - PARADIXE",
+   "rank": null,
+   "value": 4504393,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-feid--paradixe"
+  },
+  {
+   "platform": "youtube",
+   "raw": "MC Jacaré - Carnívoro",
+   "rank": null,
+   "value": 4464826,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-mc-jacare--carnivoro"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Shubham Raj - Nachiab Hathiyar Se",
+   "rank": null,
+   "value": 4461667,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-shubham-raj--nachiab-hathiyar-se"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Vin WRLD - No Snitching",
+   "rank": null,
+   "value": 4437211,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-vin-wrld--no-snitching"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Ruchika Jangid - 4G Ka Jamana",
+   "rank": null,
+   "value": 4363161,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ruchika-jangid--4g-ka-jamana"
+  },
+  {
+   "platform": "youtube",
+   "raw": "SOYEON - 퇴사할게여",
+   "rank": null,
+   "value": 4312421,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-soyeon--퇴사할게여"
+  },
+  {
+   "platform": "youtube",
+   "raw": "MC Tuto - Faz Parte de Mim",
+   "rank": null,
+   "value": 4281504,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-mc-tuto--faz-parte-de-mim"
+  },
+  {
+   "platform": "youtube",
+   "raw": "CountryBeat - Um Peão Desse (Live)",
+   "rank": null,
+   "value": 4223122,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-countrybeat--um-peao-desse-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Mabel Matiz - Umrumdışı",
+   "rank": null,
+   "value": 4174962,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-mabel-matiz--umrumdısı"
+  },
+  {
+   "platform": "youtube",
+   "raw": "La Santa Grifa - Table Dance",
+   "rank": null,
+   "value": 4071134,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-la-santa-grifa--table-dance"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Aneesh - Udi Udi",
+   "rank": null,
+   "value": 4061521,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-aneesh--udi-udi"
+  },
+  {
+   "platform": "youtube",
+   "raw": "KATSEYE - Debut",
+   "rank": null,
+   "value": 4023632,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-katseye--debut"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Anuv Jain - Jo Tum Mere Ho",
+   "rank": null,
+   "value": 4021931,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-anuv-jain--jo-tum-mere-ho"
+  },
+  {
+   "platform": "youtube",
+   "raw": "MEOMURU - 꿈꾸던 어른이 되었나요?",
+   "rank": null,
+   "value": 4012939,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-meomuru--꿈꾸던-어른이-되었나요"
+  },
+  {
+   "platform": "youtube",
+   "raw": "ATEEZ - BAD",
+   "rank": null,
+   "value": 3960223,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ateez--bad"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Rapperiya Baalam - काँच केरी चिमनी (feat. Mandeep Ramana, Ismail Langa Group & Rapperiya Baalam)",
+   "rank": null,
+   "value": 3910361,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-rapperiya-baalam--क-च-क-र-च-मन"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Heitor Santos - Noite Fracassada",
+   "rank": null,
+   "value": 3859110,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-heitor-santos--noite-fracassada"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Jxggi - IYKYK",
+   "rank": null,
+   "value": 3830196,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-jxggi--iykyk"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Ragal Ironbull - Valhalla Calling",
+   "rank": null,
+   "value": 3810639,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ragal-ironbull--valhalla-calling"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Jakes Bejoy - Asalayavale",
+   "rank": null,
+   "value": 3803577,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-jakes-bejoy--asalayavale"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Daler Mehndi - Katto Gilehri",
+   "rank": null,
+   "value": 3800069,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-daler-mehndi--katto-gilehri"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Grupo Niche - Nuestro Sueño",
+   "rank": null,
+   "value": 3765143,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-grupo-niche--nuestro-sueno"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Armaan Malik - Hua Hain Aaj Pehli Baar",
+   "rank": null,
+   "value": 3758721,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-armaan-malik--hua-hain-aaj-pehli-baar"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Daddy Yankee - BOTZ",
+   "rank": null,
+   "value": 3731540,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-daddy-yankee--botz"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Thiago Navarro Music - Bonito, Bonito",
+   "rank": null,
+   "value": 3726201,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-thiago-navarro-music--bonito-bonito"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Hadise - Ara Beni",
+   "rank": null,
+   "value": 3726099,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-hadise--ara-beni"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Zoé - Luna (Live)",
+   "rank": null,
+   "value": 3717180,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-zoe--luna-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Pankaj Udhas - Na Kajre Ki Dhar",
+   "rank": null,
+   "value": 3707391,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-pankaj-udhas--na-kajre-ki-dhar"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Sai Abhyankkar - Magale (From \"Baththa\")",
+   "rank": null,
+   "value": 3698582,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-sai-abhyankkar--magale"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Parmish Verma - Brabus",
+   "rank": null,
+   "value": 3691509,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-parmish-verma--brabus"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Kroi - SPIN",
+   "rank": null,
+   "value": 3683991,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-kroi--spin"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Sushin Shyam - Aathi Iva Yarraa",
+   "rank": null,
+   "value": 3666883,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-sushin-shyam--aathi-iva-yarraa"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Bora Duran - Döndüm",
+   "rank": null,
+   "value": 3659671,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-bora-duran--dondum"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Pawan Singh - माई",
+   "rank": null,
+   "value": 3633341,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-pawan-singh--म-ई"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Tuntun Yadav - तोरा लेखा बदमाश के मुआ दी खेसरिया धांस के",
+   "rank": null,
+   "value": 3628961,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-tuntun-yadav--त-र-ल-ख-बदम-श-क-म-आ-द-ख-सर-य-ध-स-क"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Sai Abhyankkar - Nallaru Po",
+   "rank": null,
+   "value": 3624311,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-sai-abhyankkar--nallaru-po"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Grupo Firme - Al Final Del Día",
+   "rank": null,
+   "value": 3613856,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-grupo-firme--al-final-del-dia"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Zé Neto & Cristiano - Cadeira Cativa (Ao Vivo)",
+   "rank": null,
+   "value": 3594079,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ze-neto--cadeira-cativa-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Hugo & Guilherme - Flash (Minha Mente) 💠",
+   "rank": null,
+   "value": 3581652,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-hugo--flash"
+  },
+  {
+   "platform": "youtube",
+   "raw": "K. S. Harisankar - Virisina",
+   "rank": null,
+   "value": 3570032,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-k-s-harisankar--virisina"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Guru Randhawa - FOSHO",
+   "rank": null,
+   "value": 3535522,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-guru-randhawa--fosho"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Laurinha Costa - SIX SEVEN",
+   "rank": null,
+   "value": 3527911,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-laurinha-costa--six-seven"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Dupla Felipe e Rodrigo - Gosta De Rua (Ao Vivo)",
+   "rank": null,
+   "value": 3527680,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-dupla-felipe-e-rodrigo--gosta-de-rua-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Gerardo Coronel - Te Felicito",
+   "rank": null,
+   "value": 3460885,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-gerardo-coronel--te-felicito"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Zain Zohaib - Ranjheya Ve",
+   "rank": null,
+   "value": 3457927,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-zain-zohaib--ranjheya-ve"
+  },
+  {
+   "platform": "youtube",
+   "raw": "BLOK3 - KUSURA BAKMA",
+   "rank": null,
+   "value": 3456593,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-blok3--kusura-bakma"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Zezé Di Camargo - Irmão da Lua, Amigo das Estrelas",
+   "rank": null,
+   "value": 3453963,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-zeze-di-camargo--irmao-da-lua-amigo-das-estrelas"
+  },
+  {
+   "platform": "youtube",
+   "raw": "DJ Japa NK - Pacman de Panicat (feat. Mc Rodrigo do CN & DJ Guh Mix)",
+   "rank": null,
+   "value": 3420235,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-dj-japa-nk--pacman-de-panicat"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Shaarib Toshi - Saanson Ko",
+   "rank": null,
+   "value": 3400150,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-shaarib-toshi--saanson-ko"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Darshan Raval - Kamariya",
+   "rank": null,
+   "value": 3397231,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-darshan-raval--kamariya"
+  },
+  {
+   "platform": "youtube",
+   "raw": "NATTANZINHO - Aproveita Que Eu Tô Brigado (Ao Vivo)",
+   "rank": null,
+   "value": 3396381,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-nattanzinho--aproveita-que-eu-to-brigado-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Motive - pVg",
+   "rank": null,
+   "value": 3351838,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-motive--pvg"
+  },
+  {
+   "platform": "youtube",
+   "raw": "La Bella Luz - Y Que Pasó",
+   "rank": null,
+   "value": 3347422,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-la-bella-luz--y-que-paso"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Mustafa Zahid - Maine Khud Ko",
+   "rank": null,
+   "value": 3345550,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-mustafa-zahid--maine-khud-ko"
+  },
+  {
+   "platform": "youtube",
+   "raw": "MC Ryan SP - SET BOCA 09 (feat. MC Jvila, MC Lele JP, Mc Leozin, Mc Bruninho da Praia & Dj Daltin no Beat)",
+   "rank": null,
+   "value": 3322424,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-mc-ryan-sp--set-boca-09"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Ahiyan - Kralın Kızı",
+   "rank": null,
+   "value": 3318365,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ahiyan--kralın-kızı"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Ayra Starr - Heaven Baby (feat. ZAYN)",
+   "rank": null,
+   "value": 3301893,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ayra-starr--heaven-baby"
+  },
+  {
+   "platform": "youtube",
+   "raw": "M!LK - 時空超えてユニバース",
+   "rank": null,
+   "value": 3297543,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-m-lk--時空超えてユニハ-ース"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Anand Raj Anand - Kiya Kiya",
+   "rank": null,
+   "value": 3287871,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-anand-raj-anand--kiya-kiya"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Candan Erçetin - Gamsız Hayat",
+   "rank": null,
+   "value": 3257551,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-candan-ercetin--gamsız-hayat"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Dedublüman - Acı Bal (Dedub Sessions II)",
+   "rank": null,
+   "value": 3247512,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-dedubluman--acı-bal"
+  },
+  {
+   "platform": "youtube",
+   "raw": "CRUSH - CRUSH!",
+   "rank": null,
+   "value": 3247460,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-crush--crush"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Dalvin La Melodia - Amnesia",
+   "rank": null,
+   "value": 3237001,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-dalvin-la-melodia--amnesia"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Neeti Mohan - GALAT BAAT HAI",
+   "rank": null,
+   "value": 3230663,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-neeti-mohan--galat-baat-hai"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Giramma - BINDELU BINDELU BAVAYYA",
+   "rank": null,
+   "value": 3158160,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-giramma--bindelu-bindelu-bavayya"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Manish Sonipat Aala - Kamar DJ Pe",
+   "rank": null,
+   "value": 3122048,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-manish-sonipat-aala--kamar-dj-pe"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Vaundy - しわあわせ",
+   "rank": null,
+   "value": 3113984,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-vaundy--しわあわせ"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Kolibri - Червоний мак",
+   "rank": null,
+   "value": 3110381,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-kolibri--червонии-мак"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Serkan Nişancı - Eller Üzer",
+   "rank": null,
+   "value": 3107034,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-serkan-nisancı--eller-uzer"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Pawni Pandey - Laila Main Laila",
+   "rank": null,
+   "value": 3095111,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-pawni-pandey--laila-main-laila"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Jasmine Sandlas - LAAVAN",
+   "rank": null,
+   "value": 3087644,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-jasmine-sandlas--laavan"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Bigg Danny - GALÁCTICOS",
+   "rank": null,
+   "value": 3079771,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-bigg-danny--galacticos"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Mohammed Aziz - पीले पीले ओ मोरे राजा",
+   "rank": null,
+   "value": 3078463,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-mohammed-aziz--प-ल-प-ल-ओ-म-र-र-ज"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Sunil Kamath - KINNA SONA",
+   "rank": null,
+   "value": 3076271,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-sunil-kamath--kinna-sona"
+  },
+  {
+   "platform": "youtube",
+   "raw": "MC Jacaré - Pau Pra Toda Obra",
+   "rank": null,
+   "value": 3075658,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-mc-jacare--pau-pra-toda-obra"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Shruti Pathak - Shubhaarambh (From \"Kai Po Che\")",
+   "rank": null,
+   "value": 3069645,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-shruti-pathak--shubhaarambh"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Los Dareyes De La Sierra - MATCHA",
+   "rank": null,
+   "value": 3056631,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-los-dareyes-de-la-sierra--matcha"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Khesari Lal Yadav - पायल",
+   "rank": null,
+   "value": 3041891,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-khesari-lal-yadav--प-यल"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Talwiinder - Mangda Wapis Kyun",
+   "rank": null,
+   "value": 3023599,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-talwiinder--mangda-wapis-kyun"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Sanjay Yaduvanshi - 315",
+   "rank": null,
+   "value": 2968855,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-sanjay-yaduvanshi--315"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Zubeen Garg - या अली (Ya Ali)",
+   "rank": null,
+   "value": 2964050,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-zubeen-garg--य-अल"
+  },
+  {
+   "platform": "youtube",
+   "raw": "La Factoria - Perdóname",
+   "rank": null,
+   "value": 2957209,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-la-factoria--perdoname"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Køddy G - Hagalo",
+   "rank": null,
+   "value": 2956008,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-køddy-g--hagalo"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Kenshi Yonezu - IRIS OUT",
+   "rank": null,
+   "value": 2952437,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-kenshi-yonezu--iris-out"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Pedro Sampaio - JETSKI",
+   "rank": null,
+   "value": 2949042,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-pedro-sampaio--jetski"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Farmani Naaz - Kari Thi Mohabbat May June Me (feat. Jahar Bhaiya)",
+   "rank": null,
+   "value": 2945296,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-farmani-naaz--kari-thi-mohabbat-may-june-me"
+  },
+  {
+   "platform": "youtube",
+   "raw": "dj andreoli - Menos Foco Mais Ansiedade (Ce Ta Nervosa)",
+   "rank": null,
+   "value": 2901767,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-dj-andreoli--menos-foco-mais-ansiedade"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Ayumu Imazu - 結び",
+   "rank": null,
+   "value": 2883221,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ayumu-imazu--結ひ"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Semicenk - Çıkmaz Bir Sokakta",
+   "rank": null,
+   "value": 2860674,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-semicenk--cıkmaz-bir-sokakta"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Julliany Souza - Ah Jesus / Coração Igual ao Teu (Ao Vivo)",
+   "rank": null,
+   "value": 2832496,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-julliany-souza--ah-jesus-coracao-igual-ao-teu-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "RESCENE - LOVE ATTACK",
+   "rank": null,
+   "value": 2801070,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-rescene--love-attack"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Rata Blanca - Mujer Amante",
+   "rank": null,
+   "value": 2773894,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-rata-blanca--mujer-amante"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Sadece Celal - Akşam Oldu Sokaklar",
+   "rank": null,
+   "value": 2747235,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-sadece-celal--aksam-oldu-sokaklar"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Ankara Echoes - Beni Al (Live)",
+   "rank": null,
+   "value": 2725802,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ankara-echoes--beni-al-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Hermanos Espinoza - FREESTYLE",
+   "rank": null,
+   "value": 2701900,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-hermanos-espinoza--freestyle"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Netto Brito - A Cena",
+   "rank": null,
+   "value": 2686517,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-netto-brito--a-cena"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Mon Laferte - Melancolía",
+   "rank": null,
+   "value": 2649791,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-mon-laferte--melancolia"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Mrs. GREEN APPLE - 共犯",
+   "rank": null,
+   "value": 2628532,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-mrs-green-apple--共犯"
+  },
+  {
+   "platform": "youtube",
+   "raw": "M!LK - アイドルパワー",
+   "rank": null,
+   "value": 2588148,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-m-lk--アイト-ルハ-ワー"
+  },
+  {
+   "platform": "youtube",
+   "raw": "MC Lele JP - Famoso Ímã | O poderoso chatão",
+   "rank": null,
+   "value": 2567051,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-mc-lele-jp--famoso-ima"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Tzanca Uraganu - Condeiul cu cerneala neagra",
+   "rank": null,
+   "value": 2538866,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-tzanca-uraganu--condeiul-cu-cerneala-neagra"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Eugenia Quevedo - No Podrás (En Vivo) (feat. Angela & La banda de Carlitos)",
+   "rank": null,
+   "value": 2530580,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-eugenia-quevedo--no-podras-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "aespa - LEMONADE",
+   "rank": null,
+   "value": 2516756,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-aespa--lemonade"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Poizi - bi kahve yaptım",
+   "rank": null,
+   "value": 2516443,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-poizi--bi-kahve-yaptım"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Netto Brito - Body Splash(Live)",
+   "rank": null,
+   "value": 2513938,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-netto-brito--body-splash-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Zé Vaqueiro - O Que É Amor Pra Você (Ao Vivo)",
+   "rank": null,
+   "value": 2503464,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ze-vaqueiro--o-que-e-amor-pra-voce-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "GENER8ION - STORM",
+   "rank": null,
+   "value": 2496566,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-gener8ion--storm"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Marília Mendonça - Foi por Conveniência",
+   "rank": null,
+   "value": 2481334,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-marilia-mendonca--foi-por-conveniencia"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Dolly Babe - Pink Blush",
+   "rank": null,
+   "value": 2480251,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-dolly-babe--pink-blush"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Felipe Rodrigues - Oh Quão Lindo Esse Nome É (Ao Vivo)",
+   "rank": null,
+   "value": 2454410,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-felipe-rodrigues--oh-quao-lindo-esse-nome-e-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "La La Love You - El Fin del Mundo (feat. Axolotes Mexicanos)",
+   "rank": null,
+   "value": 2415269,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-la-la-love-you--el-fin-del-mundo"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Zericxxn - Raya (Slowed)",
+   "rank": null,
+   "value": 2412863,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-zericxxn--raya-slowed"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Poizi - Başımda Belalar",
+   "rank": null,
+   "value": 2407255,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-poizi--basımda-belalar"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Netto Brito - Biometria",
+   "rank": null,
+   "value": 2405817,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-netto-brito--biometria"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Tems - What You Need",
+   "rank": null,
+   "value": 2397539,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-tems--what-you-need"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Efecto Elegante - Ebrio De Amor",
+   "rank": null,
+   "value": 2389522,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-efecto-elegante--ebrio-de-amor"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Panda - Eu Te Seguro (Ao Vivo)",
+   "rank": null,
+   "value": 2386860,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-panda--eu-te-seguro-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "DJ Zinhle - Nayvee's Prayer",
+   "rank": null,
+   "value": 2373213,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-dj-zinhle--nayvees-prayer"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Robson Abreu - Patricinha",
+   "rank": null,
+   "value": 2369576,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-robson-abreu--patricinha"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Espinoza Paz - Lo Intentamos",
+   "rank": null,
+   "value": 2363918,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-espinoza-paz--lo-intentamos"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Belly Gang Kushington - WTF GOIN (feat. 21 Savage)",
+   "rank": null,
+   "value": 2363625,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-belly-gang-kushington--wtf-goin"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Grupo Menos É Mais - Gilete no Box (Ao Vivo)",
+   "rank": null,
+   "value": 2359845,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-grupo-menos-e-mais--gilete-no-box-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Felipe Rodrigues - Tudo É Perda (Ao Vivo)",
+   "rank": null,
+   "value": 2358397,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-felipe-rodrigues--tudo-e-perda-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Onur Atmaca - Oy Dedim",
+   "rank": null,
+   "value": 2355550,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-onur-atmaca--oy-dedim"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Eypio - Sana Rağmen",
+   "rank": null,
+   "value": 2348625,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-eypio--sana-ragmen"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Tan Taşçı - Gidişat",
+   "rank": null,
+   "value": 2345453,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-tan-tascı--gidisat"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Simone Mendes - Saudade Proibida (Ao Vivo)",
+   "rank": null,
+   "value": 2341185,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-simone-mendes--saudade-proibida-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Ele A El Dominio - No Contesta",
+   "rank": null,
+   "value": 2337503,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ele-a-el-dominio--no-contesta"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Sibel Can - KIYAMAM",
+   "rank": null,
+   "value": 2332810,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-sibel-can--kiyamam"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Mauvais djo - Pilé",
+   "rank": null,
+   "value": 2317015,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-mauvais-djo--pile"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Aiobahn - DEMON'S SHOT",
+   "rank": null,
+   "value": 2315076,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-aiobahn--demons-shot"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Omar Camacho - King of Watches",
+   "rank": null,
+   "value": 2303043,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-omar-camacho--king-of-watches"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Aria Vega - COMPA COLETO (uy_como)",
+   "rank": null,
+   "value": 2298536,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-aria-vega--compa-coleto"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Valesca Mayssa - Não Me Deixe Esquecer (Ao Vivo)",
+   "rank": null,
+   "value": 2280106,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-valesca-mayssa--nao-me-deixe-esquecer-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Grupo Feroz - Condenados",
+   "rank": null,
+   "value": 2279767,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-grupo-feroz--condenados"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Mc Iguinho Ct - GRWM (feat. MC LUUKY & DU'L)",
+   "rank": null,
+   "value": 2261480,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-mc-iguinho-ct--grwm"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Igor Ferrari - Botadinha",
+   "rank": null,
+   "value": 2245072,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-igor-ferrari--botadinha"
+  },
+  {
+   "platform": "youtube",
+   "raw": "MC Vine7 - Reliquia do 2T (feat. MC Fr da Norte & Mc Dkziin)",
+   "rank": null,
+   "value": 2228470,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-mc-vine7--reliquia-do-2t"
+  },
+  {
+   "platform": "youtube",
+   "raw": "JeankCenteno - Ayer Y Hoy",
+   "rank": null,
+   "value": 2225204,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-jeankcenteno--ayer-y-hoy"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Natanzinho Lima - Até Quando (Ao Vivo)",
+   "rank": null,
+   "value": 2221230,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-natanzinho-lima--ate-quando-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Natanael Cano - Mar Azul",
+   "rank": null,
+   "value": 2214612,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-natanael-cano--mar-azul"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Bien - I'll Be Okay",
+   "rank": null,
+   "value": 2211349,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-bien--ill-be-okay"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Natanzinho Lima - Um Beijo por Minuto (25 Milhões) (Ao Vivo)",
+   "rank": null,
+   "value": 2207879,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-natanzinho-lima--um-beijo-por-minuto-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Netto Brito - Se Eu Te Perdoar",
+   "rank": null,
+   "value": 2200743,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-netto-brito--se-eu-te-perdoar"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Grupo Firme - Nunca Supiste Que Te Esperé",
+   "rank": null,
+   "value": 2195925,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-grupo-firme--nunca-supiste-que-te-espere"
+  },
+  {
+   "platform": "youtube",
+   "raw": "candemirtheater - Gel dedim geldin",
+   "rank": null,
+   "value": 2183769,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-candemirtheater--gel-dedim-geldin"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Michael Jackson - Thriller",
+   "rank": null,
+   "value": 2180077,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-michael-jackson--thriller"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Tman Xpress - Remember",
+   "rank": null,
+   "value": 2176607,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-tman-xpress--remember"
+  },
+  {
+   "platform": "youtube",
+   "raw": "La Mosca Tsé-Tsé - Para No Verte Más",
+   "rank": null,
+   "value": 2171057,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-la-mosca-tse-tse--para-no-verte-mas"
+  },
+  {
+   "platform": "youtube",
+   "raw": "RESCENE - Pretty Girl",
+   "rank": null,
+   "value": 2167138,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-rescene--pretty-girl"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Tekir - Yıkamazlar Beni",
+   "rank": null,
+   "value": 2164507,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-tekir--yıkamazlar-beni"
+  }
+ ],
+ "fuzzy": [
+  {
+   "platform": "apple",
+   "raw": "ADÉLA - Ain't In LA",
+   "matchedTo": "sp-02HyFYmpzt02VJ8k0CqxKj",
+   "matchedTitle": "Ain't In LA",
+   "method": "ambiguous"
+  },
+  {
+   "platform": "apple",
+   "raw": "Dua Lipa - Training Season",
+   "matchedTo": "sp-5b5cPscqVEMChvDqscVw26",
+   "matchedTitle": "Training Season",
+   "method": "ambiguous"
+  },
+  {
+   "platform": "apple",
+   "raw": "Lady Gaga & Bruno Mars - Die With A Smile",
+   "matchedTo": "sp-2plbrEY59IikOBgBGLjaoe",
+   "matchedTitle": "Die With A Smile",
+   "method": "ambiguous"
+  },
+  {
+   "platform": "apple",
+   "raw": "Katy Perry - The One That Got Away",
+   "matchedTo": "sp-2009X8GyWTqyxIdzAEYW6N",
+   "matchedTitle": "The One That Got Away",
+   "method": "ambiguous"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Q' Lokura - Cuarteto Sessions #4 (En Vivo)",
+   "matchedTo": "n-q-lokura--cuarteto-sessions-6-live",
+   "matchedTitle": "Cuarteto Sessions #6 (En Vivo)",
+   "method": "fuzzy"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Chris Isaak - Wicked Game",
+   "matchedTo": "sp-2y42xAsl6dfMeVXQgOYsUw",
+   "matchedTitle": "Wicked Game",
+   "method": "ambiguous"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Dupla Felipe e Rodrigo - Pós (Ao Vivo)",
+   "matchedTo": "sp-1uDn0nbzeGPVw97jp7SvzR",
+   "matchedTitle": "Pós - Ao Vivo",
+   "method": "fuzzy"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Olivia Rodrigo - expectations",
+   "matchedTo": "sp-3XmwAZpIMNpTJy8faw3ajD",
+   "matchedTitle": "expectations",
+   "method": "ambiguous"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Lady Gaga - Die With A Smile",
+   "matchedTo": "sp-2plbrEY59IikOBgBGLjaoe",
+   "matchedTitle": "Die With A Smile",
+   "method": "ambiguous"
+  }
+ ]
+}

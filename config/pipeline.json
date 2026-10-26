@@ -1,0 +1,35 @@
+{
+  "userAgent": "PersonalMusicCharts/0.1 (+https://github.com/YOUR_GITHUB_USER/music-charts; personal, non-commercial)",
+  "requestDelayMs": 2500,
+  "sources": {
+    "kworb-spotify": {
+      "enabled": true
+    },
+    "kworb-youtube": {
+      "enabled": true
+    },
+    "kworb-apple": {
+      "enabled": true
+    },
+    "chartmetric": {
+      "enabled": false
+    },
+    "luminate": {
+      "enabled": false
+    }
+  },
+  "$comment": "Sources are tried in `priority` order; for each platform the first source that succeeds is used. Put paid sources first once implemented.",
+  "priority": [
+    "luminate",
+    "chartmetric",
+    "kworb-spotify",
+    "kworb-apple",
+    "kworb-youtube"
+  ],
+  "enrichment": {
+    "spotifyWebApi": true,
+    "musicbrainz": true,
+    "metadataMaxAgeDays": 28
+  },
+  "youtubeChartSize": 200
+}

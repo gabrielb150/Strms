@@ -1,0 +1,32 @@
+{
+  "name": "music-charts",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Personal combined weekly music chart (Spotify, Apple Music, YouTube) built from free public data.",
+  "scripts": {
+    "dev": "npm run sync-data && next dev",
+    "build": "npm run sync-data && next build",
+    "sync-data": "tsx scripts/sync-public-data.ts",
+    "mock": "tsx scripts/generate-mock-data.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "pipeline": "tsx scripts/run-pipeline.ts",
+    "backfill": "tsx scripts/backfill-wayback.ts",
+    "rebuild": "tsx scripts/rebuild-all.ts"
+  },
+  "dependencies": {
+    "next": "16.4.3",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.3.3",
+    "@types/node": "^22",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "tailwindcss": "4.3.3",
+    "tsx": "4.23.15",
+    "typescript": "^5.8",
+    "vitest": "5.0.5"
+  }
+}

@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+.env
+.env.local
+public/data/
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+data/logs/last-error.txt
+.claude/
+data/raw/_wayback/

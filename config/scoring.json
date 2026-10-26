@@ -1,0 +1,20 @@
+{
+  "$comment": "Weights for the Combined Score. They are renormalized over the sources that were actually included in a given week, so a missing source never shrinks everyone's score.",
+  "weights": {
+    "spotify": 0.45,
+    "youtube": 0.30,
+    "apple": 0.25
+  },
+  "rankCurve": {
+    "$comment": "Rank-only platforms get points = 100 * rank^(-k). With fitToReference, k is fitted each week to the real stream curve of the reference platform.",
+    "fitToReference": "spotify",
+    "fallbackExponent": 0.3,
+    "minExponent": 0.1,
+    "maxExponent": 1.0
+  },
+  "chartSize": 100,
+  "combinedStreams": {
+    "$comment": "When every included platform reports real stream counts (e.g. paid sources), the chart switches to true combined streams. YouTube views can be counted at a discount if you want.",
+    "youtubeViewFactor": 1.0
+  }
+}

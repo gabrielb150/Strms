@@ -1,0 +1,2047 @@
+{
+ "week": "2026-08-20",
+ "generatedAt": "2026-10-25T23:38:38.533Z",
+ "unmatched": [
+  {
+   "platform": "youtube",
+   "raw": "Hadise - Ara Beni",
+   "rank": null,
+   "value": 6530526,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-hadise--ara-beni"
+  },
+  {
+   "platform": "youtube",
+   "raw": "ATEEZ - BAD",
+   "rank": null,
+   "value": 5789683,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ateez--bad"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Motive - pVg",
+   "rank": null,
+   "value": 5594879,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-motive--pvg"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Akbar Chalay - Astaga Bercanda",
+   "rank": null,
+   "value": 5553192,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-akbar-chalay--astaga-bercanda"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Ifan Seventeen - Jangan Paksa Rindu (Beda)",
+   "rank": null,
+   "value": 5416828,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ifan-seventeen--jangan-paksa-rindu"
+  },
+  {
+   "platform": "youtube",
+   "raw": "CRUSH - CRUSH!",
+   "rank": null,
+   "value": 5186773,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-crush--crush"
+  },
+  {
+   "platform": "youtube",
+   "raw": "KATSEYE - Animal (Live)",
+   "rank": null,
+   "value": 4750434,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-katseye--animal-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Tan Taşçı - Gidişat",
+   "rank": null,
+   "value": 4725964,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-tan-tascı--gidisat"
+  },
+  {
+   "platform": "youtube",
+   "raw": "aespa - LEMONADE",
+   "rank": null,
+   "value": 4393890,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-aespa--lemonade"
+  },
+  {
+   "platform": "youtube",
+   "raw": "EBiDAN Ebisu Gakuen Boys Club - Yes! 東京",
+   "rank": null,
+   "value": 4254916,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ebidan-ebisu-gakuen-boys-club--yes-東京"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Ezhel - Bana Ne Bu Sevdalardan",
+   "rank": null,
+   "value": 4180464,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ezhel--bana-ne-bu-sevdalardan"
+  },
+  {
+   "platform": "youtube",
+   "raw": "candemirtheater - Gel dedim geldin",
+   "rank": null,
+   "value": 4123073,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-candemirtheater--gel-dedim-geldin"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Nadhif Basalamah - kota ini tak sama tanpamu",
+   "rank": null,
+   "value": 4064862,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-nadhif-basalamah--kota-ini-tak-sama-tanpamu"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Sibel Can - KIYAMAM",
+   "rank": null,
+   "value": 3918764,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-sibel-can--kiyamam"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Ankara Echoes - Beni Al (Live)",
+   "rank": null,
+   "value": 3748516,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ankara-echoes--beni-al-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "NCT 127 - Piñata",
+   "rank": null,
+   "value": 3700295,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-nct-127--pinata"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Serkan Nişancı - Eller Üzer",
+   "rank": null,
+   "value": 3614354,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-serkan-nisancı--eller-uzer"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Elif Buse Doğan - Yangın Yeri",
+   "rank": null,
+   "value": 3535561,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-elif-buse-dogan--yangın-yeri"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Kenshi Yonezu - IRIS OUT",
+   "rank": null,
+   "value": 3486213,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-kenshi-yonezu--iris-out"
+  },
+  {
+   "platform": "youtube",
+   "raw": "SILET OPEN UP - TABOLA BALE",
+   "rank": null,
+   "value": 3255802,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-silet-open-up--tabola-bale"
+  },
+  {
+   "platform": "youtube",
+   "raw": "TAKARA - Time is money",
+   "rank": null,
+   "value": 3209217,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-takara--time-is-money"
+  },
+  {
+   "platform": "youtube",
+   "raw": "RESCENE - LOVE ATTACK",
+   "rank": null,
+   "value": 3196508,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-rescene--love-attack"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Stray Kids - This & That",
+   "rank": null,
+   "value": 3117598,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-stray-kids--this-and-that"
+  },
+  {
+   "platform": "youtube",
+   "raw": "BLOK3 - KUSURA BAKMA",
+   "rank": null,
+   "value": 3116770,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-blok3--kusura-bakma"
+  },
+  {
+   "platform": "youtube",
+   "raw": "T.M. Revolution - HOT LIMIT",
+   "rank": null,
+   "value": 3115881,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-t-m-revolution--hot-limit"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Kahitna - Titik Nadir (feat. Monita Tahalea)",
+   "rank": null,
+   "value": 3107107,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-kahitna--titik-nadir"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Ipank - Mutiara",
+   "rank": null,
+   "value": 3073770,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ipank--mutiara"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Backstreet Boys - Shape of My Heart",
+   "rank": null,
+   "value": 3019092,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-backstreet-boys--shape-of-my-heart"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Semicenk - Çıkmaz Bir Sokakta",
+   "rank": null,
+   "value": 2939926,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-semicenk--cıkmaz-bir-sokakta"
+  },
+  {
+   "platform": "youtube",
+   "raw": "manifest - Amatör",
+   "rank": null,
+   "value": 2898157,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-manifest--amator"
+  },
+  {
+   "platform": "youtube",
+   "raw": "KomeAnime - エアロピクルス",
+   "rank": null,
+   "value": 2871315,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-komeanime--エアロヒ-クルス"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Denny Caknan - Negoro Angin",
+   "rank": null,
+   "value": 2700706,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-denny-caknan--negoro-angin"
+  },
+  {
+   "platform": "youtube",
+   "raw": "RESCENE - Pretty Girl",
+   "rank": null,
+   "value": 2594230,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-rescene--pretty-girl"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Sıla Şahin - Ayay",
+   "rank": null,
+   "value": 2427285,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-sıla-sahin--ayay"
+  },
+  {
+   "platform": "youtube",
+   "raw": "sakanaction - 夜の踊り子",
+   "rank": null,
+   "value": 2366267,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-sakanaction--夜の踊り子"
+  },
+  {
+   "platform": "youtube",
+   "raw": "BabyChiefDoit - Ghetto Love Story",
+   "rank": null,
+   "value": 2363022,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-babychiefdoit--ghetto-love-story"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Tems - What You Need",
+   "rank": null,
+   "value": 2354303,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-tems--what-you-need"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Jess Lee - 甲乙丙丁 (你我怎么两清)",
+   "rank": null,
+   "value": 2350531,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-jess-lee--甲乙丙丁"
+  },
+  {
+   "platform": "youtube",
+   "raw": "BLOK3 - Allah Allah ?",
+   "rank": null,
+   "value": 2350109,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-blok3--allah-allah"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Mebrure - Değilim",
+   "rank": null,
+   "value": 2305147,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-mebrure--degilim"
+  },
+  {
+   "platform": "youtube",
+   "raw": "M!LK - You!Joy!Parade!",
+   "rank": null,
+   "value": 2299631,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-m-lk--you-joy-parade"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Pınar Soykan - Sakla (Erhan Boraer Remix)",
+   "rank": null,
+   "value": 2288502,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-pınar-soykan--sakla-remix"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Lvbel C5 - GEL GEL GEL",
+   "rank": null,
+   "value": 2156218,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-lvbel-c5--gel-gel-gel"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Poizi - Başımda Belalar",
+   "rank": null,
+   "value": 2146302,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-poizi--basımda-belalar"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Hearts2Hearts - RUDE!",
+   "rank": null,
+   "value": 2121907,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-hearts2hearts--rude"
+  },
+  {
+   "platform": "youtube",
+   "raw": "I.O.I - 갑자기",
+   "rank": null,
+   "value": 2087908,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-i-o-i--갑자기"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Lil Baby - Dead Fresh",
+   "rank": null,
+   "value": 2079730,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-lil-baby--dead-fresh"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Cardi B - AH HA",
+   "rank": null,
+   "value": 2064044,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-cardi-b--ah-ha"
+  },
+  {
+   "platform": "youtube",
+   "raw": "HWASA - Good Goodbye",
+   "rank": null,
+   "value": 2058401,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-hwasa--good-goodbye"
+  },
+  {
+   "platform": "youtube",
+   "raw": "RESCENE - Deja Vu",
+   "rank": null,
+   "value": 2039862,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-rescene--deja-vu"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Tekir - Yıkamazlar Beni",
+   "rank": null,
+   "value": 1987332,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-tekir--yıkamazlar-beni"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Ezhel - Başa Bela",
+   "rank": null,
+   "value": 1942905,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ezhel--basa-bela"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Derya Uluğ - Şımarık",
+   "rank": null,
+   "value": 1928271,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-derya-ulug--sımarık"
+  },
+  {
+   "platform": "youtube",
+   "raw": "KAVAK - TSS",
+   "rank": null,
+   "value": 1895362,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-kavak--tss"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Poizi - UYUYAMADIN DİMİ?",
+   "rank": null,
+   "value": 1894172,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-poizi--uyuyamadin-dimi"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Murat Göğebakan - Diğer Yarım",
+   "rank": null,
+   "value": 1878819,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-murat-gogebakan--diger-yarım"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Eypio - Ömrüm",
+   "rank": null,
+   "value": 1874094,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-eypio--omrum"
+  },
+  {
+   "platform": "youtube",
+   "raw": "manifest - Başrol Sensin (1. Yıl Özel)",
+   "rank": null,
+   "value": 1860944,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-manifest--basrol-sensin"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Mela Bedel - İki Tas Çorba",
+   "rank": null,
+   "value": 1842770,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-mela-bedel--iki-tas-corba"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Lvbel C5 - COOOK PARDON",
+   "rank": null,
+   "value": 1836049,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-lvbel-c5--coook-pardon"
+  },
+  {
+   "platform": "youtube",
+   "raw": "BLOK3 - Değiştiremezsin Yazılmışsa",
+   "rank": null,
+   "value": 1795845,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-blok3--degistiremezsin-yazılmıssa"
+  },
+  {
+   "platform": "youtube",
+   "raw": "JENNIE - Less than a Lover",
+   "rank": null,
+   "value": 1752749,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-jennie--less-than-a-lover"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Yung Miami - Spend Dat",
+   "rank": null,
+   "value": 1724203,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-yung-miami--spend-dat"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Eypio - Sana Rağmen",
+   "rank": null,
+   "value": 1721599,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-eypio--sana-ragmen"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Asil Gök - Noldu Böyle",
+   "rank": null,
+   "value": 1710011,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-asil-gok--noldu-boyle"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Dalvin La Melodia - Amnesia",
+   "rank": null,
+   "value": 1699150,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-dalvin-la-melodia--amnesia"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Pooh Shiesty - I'm Back",
+   "rank": null,
+   "value": 1698088,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-pooh-shiesty--im-back"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Anju Panta - Dilma Thau Chha",
+   "rank": null,
+   "value": 1689752,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-anju-panta--dilma-thau-chha"
+  },
+  {
+   "platform": "youtube",
+   "raw": "M.Sasuke - GG EZ",
+   "rank": null,
+   "value": 1689428,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-m-sasuke--gg-ez"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Salih Bademci - Yürü Ya Kulum (Eda & Metin Özülkü Şarkıları)",
+   "rank": null,
+   "value": 1666910,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-salih-bademci--yuru-ya-kulum"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Karm6 - Ta Burama",
+   "rank": null,
+   "value": 1666510,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-karm6--ta-burama"
+  },
+  {
+   "platform": "youtube",
+   "raw": "M!LK - アイドルパワー",
+   "rank": null,
+   "value": 1661111,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-m-lk--アイト-ルハ-ワー"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Kenshi Yonezu - JANE DOE",
+   "rank": null,
+   "value": 1661065,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-kenshi-yonezu--jane-doe"
+  },
+  {
+   "platform": "youtube",
+   "raw": "TAEYEON - Bansanka",
+   "rank": null,
+   "value": 1649842,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-taeyeon--bansanka"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Ado - モンストロ",
+   "rank": null,
+   "value": 1624634,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ado--モンストロ"
+  },
+  {
+   "platform": "youtube",
+   "raw": "马也Crabbit - 海屿你",
+   "rank": null,
+   "value": 1593948,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-马也crabbit--海屿你"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Ceren Sagu - Yemin Olsun",
+   "rank": null,
+   "value": 1564305,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ceren-sagu--yemin-olsun"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Red Velvet - Surfin' Boy",
+   "rank": null,
+   "value": 1551676,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-red-velvet--surfin-boy"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Emre Fel - Bir Güldün",
+   "rank": null,
+   "value": 1536276,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-emre-fel--bir-guldun"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Michael Jackson - Smooth Criminal",
+   "rank": null,
+   "value": 1536189,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-michael-jackson--smooth-criminal"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Umur Doma - Gel",
+   "rank": null,
+   "value": 1535570,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-umur-doma--gel"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Mabel Matiz - Ha Leylim",
+   "rank": null,
+   "value": 1534965,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-mabel-matiz--ha-leylim"
+  },
+  {
+   "platform": "youtube",
+   "raw": "3 Doors Down - Kryptonite",
+   "rank": null,
+   "value": 1518628,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-3-doors-down--kryptonite"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Semicenk - Vur Beni",
+   "rank": null,
+   "value": 1516914,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-semicenk--vur-beni"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Pooh Shiesty - Still on Timing (feat. BIG30)",
+   "rank": null,
+   "value": 1514265,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-pooh-shiesty--still-on-timing"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Şerif Ali Boztepe - Heba Olan Dünler (feat. Berrin Keskin)",
+   "rank": null,
+   "value": 1510964,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-serif-ali-boztepe--heba-olan-dunler"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Pooh Shiesty - Federal Reality",
+   "rank": null,
+   "value": 1492562,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-pooh-shiesty--federal-reality"
+  },
+  {
+   "platform": "youtube",
+   "raw": "King Gnu - AIZO",
+   "rank": null,
+   "value": 1478438,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-king-gnu--aizo"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Serkan Nişancı - Unutacağım",
+   "rank": null,
+   "value": 1469788,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-serkan-nisancı--unutacagım"
+  },
+  {
+   "platform": "youtube",
+   "raw": "YENA - 캐치 캐치",
+   "rank": null,
+   "value": 1463288,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-yena--캐치-캐치"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Gökhan Namlı - Yar Gözlerin Ağlar Gibi",
+   "rank": null,
+   "value": 1462577,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-gokhan-namlı--yar-gozlerin-aglar-gibi"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Snow Man - グッタイム",
+   "rank": null,
+   "value": 1443599,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-snow-man--ク-ッタイム"
+  },
+  {
+   "platform": "youtube",
+   "raw": "M!LK - しおざきわんだーらんど",
+   "rank": null,
+   "value": 1442089,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-m-lk--しおさ-きわんた-ーらんと"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Tamer Hosny - Wesh El Kheir",
+   "rank": null,
+   "value": 1441998,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-tamer-hosny--wesh-el-kheir"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Los Dareyes De La Sierra - MATCHA",
+   "rank": null,
+   "value": 1440131,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-los-dareyes-de-la-sierra--matcha"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Nebi Demir - En Büyük Aşkım (Bir deli yürek acısındayım)",
+   "rank": null,
+   "value": 1437085,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-nebi-demir--en-buyuk-askım"
+  },
+  {
+   "platform": "youtube",
+   "raw": "King Gnu - GO GHOST",
+   "rank": null,
+   "value": 1436143,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-king-gnu--go-ghost"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Kenshi Yonezu - 烏 - Raven",
+   "rank": null,
+   "value": 1430940,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-kenshi-yonezu--烏"
+  },
+  {
+   "platform": "youtube",
+   "raw": "KATSEYE - Debut",
+   "rank": null,
+   "value": 1420398,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-katseye--debut"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Snow Man - カリスマックス",
+   "rank": null,
+   "value": 1419349,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-snow-man--カリスマックス"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Pooh Shiesty - Reckless Living",
+   "rank": null,
+   "value": 1417922,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-pooh-shiesty--reckless-living"
+  },
+  {
+   "platform": "youtube",
+   "raw": "T.I. - LET 'EM KNOW",
+   "rank": null,
+   "value": 1414673,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-t-i--let-em-know"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Shelby - Gamsız",
+   "rank": null,
+   "value": 1397696,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-shelby--gamsız"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Yalın - Akşamüstü",
+   "rank": null,
+   "value": 1391904,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-yalın--aksamustu"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Shelby - Geliyorsun Aklıma",
+   "rank": null,
+   "value": 1383784,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-shelby--geliyorsun-aklıma"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Choi Yu Ree - 생각을 멈추다 보면",
+   "rank": null,
+   "value": 1353203,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-choi-yu-ree--생각을-멈추다-보면"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Rod Wave - Hustle",
+   "rank": null,
+   "value": 1348110,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-rod-wave--hustle"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Saucy Santana - Quiet on the Creek",
+   "rank": null,
+   "value": 1339885,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-saucy-santana--quiet-on-the-creek"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Candan Erçetin - Gamsız Hayat",
+   "rank": null,
+   "value": 1339669,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-candan-ercetin--gamsız-hayat"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Kenshi Yonezu - 夜鷹",
+   "rank": null,
+   "value": 1339531,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-kenshi-yonezu--夜鷹"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Tamer Hosny - Mowala3nha",
+   "rank": null,
+   "value": 1335609,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-tamer-hosny--mowala3nha"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Horror Skunx - Be My Friend (The Verity Band)",
+   "rank": null,
+   "value": 1333994,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-horror-skunx--be-my-friend"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Lil Yappa - Bang Bang Bang (lil yappa/minus b remix) (feat. BBpanzu)",
+   "rank": null,
+   "value": 1326079,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-lil-yappa--bang-bang-bang-remix"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Dedublüman - Sana Güvenmiyorum(Dedub Sessions)",
+   "rank": null,
+   "value": 1296096,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-dedubluman--sana-guvenmiyorum"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Hearts2Hearts - Lemon Tang",
+   "rank": null,
+   "value": 1285776,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-hearts2hearts--lemon-tang"
+  },
+  {
+   "platform": "youtube",
+   "raw": "fromis_9 - Vitamin ME",
+   "rank": null,
+   "value": 1283657,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-fromis-9--vitamin-me"
+  },
+  {
+   "platform": "youtube",
+   "raw": "M!LK - イイじゃん",
+   "rank": null,
+   "value": 1281842,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-m-lk--イイし-ゃん"
+  },
+  {
+   "platform": "youtube",
+   "raw": "KiiiKiii - Pop Off Pop Off",
+   "rank": null,
+   "value": 1276348,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-kiiikiii--pop-off-pop-off"
+  },
+  {
+   "platform": "youtube",
+   "raw": "YOASOBI - アイドル",
+   "rank": null,
+   "value": 1270741,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-yoasobi--アイト-ル"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Not Equal Me - 愛くださいませ",
+   "rank": null,
+   "value": 1260667,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-not-equal-me--愛くた-さいませ"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Ervis Behari - Me Cmende",
+   "rank": null,
+   "value": 1257242,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ervis-behari--me-cmende"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Meek Mill - Nightmares To Dreams",
+   "rank": null,
+   "value": 1248466,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-meek-mill--nightmares-to-dreams"
+  },
+  {
+   "platform": "youtube",
+   "raw": "4 Non Blondes - What's Up?",
+   "rank": null,
+   "value": 1235287,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-4-non-blondes--whats-up"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Pooh Shiesty - Bigger Than the Program",
+   "rank": null,
+   "value": 1231445,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-pooh-shiesty--bigger-than-the-program"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Siren(CV:Suzuki Minori) - 島のうた (セイレーンver.)",
+   "rank": null,
+   "value": 1229139,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-siren-cv-suzuki-minori--島のうた"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Michael Jackson - Bad",
+   "rank": null,
+   "value": 1213539,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-michael-jackson--bad"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Michael Jackson - Human Nature",
+   "rank": null,
+   "value": 1205702,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-michael-jackson--human-nature"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Don Miguelo - Y Que Fue?",
+   "rank": null,
+   "value": 1201778,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-don-miguelo--y-que-fue"
+  },
+  {
+   "platform": "youtube",
+   "raw": "KiiiKiii - 404 (New Era)",
+   "rank": null,
+   "value": 1195609,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-kiiikiii--404"
+  },
+  {
+   "platform": "youtube",
+   "raw": "aespa - KISS N TELL",
+   "rank": null,
+   "value": 1192679,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-aespa--kiss-n-tell"
+  },
+  {
+   "platform": "youtube",
+   "raw": "ACIOĞLU - İhtiyacım Var (Live)",
+   "rank": null,
+   "value": 1190602,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-acioglu--ihtiyacım-var-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "HANRORO - 0+0",
+   "rank": null,
+   "value": 1181518,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-hanroro--0-and-0"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Ahmet Kaya - Gaş Sabah",
+   "rank": null,
+   "value": 1178095,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ahmet-kaya--gas-sabah"
+  },
+  {
+   "platform": "youtube",
+   "raw": "back number - 水平線",
+   "rank": null,
+   "value": 1177416,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-back-number--水平線"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Moneybagg Yo - I See Why",
+   "rank": null,
+   "value": 1177397,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-moneybagg-yo--i-see-why"
+  },
+  {
+   "platform": "youtube",
+   "raw": "El Zombi15 - Activo",
+   "rank": null,
+   "value": 1170799,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-el-zombi15--activo"
+  },
+  {
+   "platform": "youtube",
+   "raw": "manifest - Zehir (Remix)",
+   "rank": null,
+   "value": 1159580,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-manifest--zehir-remix"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Michael Jackson - Rock With You",
+   "rank": null,
+   "value": 1145987,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-michael-jackson--rock-with-you"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Selcan - Senden Adam Olmaz",
+   "rank": null,
+   "value": 1145493,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-selcan--senden-adam-olmaz"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Dedublüman - Sen Bilmezsin",
+   "rank": null,
+   "value": 1133964,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-dedubluman--sen-bilmezsin"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Pooh Shiesty - Collecting Tears",
+   "rank": null,
+   "value": 1119722,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-pooh-shiesty--collecting-tears"
+  },
+  {
+   "platform": "youtube",
+   "raw": "3 Doors Down - Here Without You",
+   "rank": null,
+   "value": 1114927,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-3-doors-down--here-without-you"
+  },
+  {
+   "platform": "youtube",
+   "raw": "ILLIT - I Got Your Back",
+   "rank": null,
+   "value": 1102308,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-illit--i-got-your-back"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Ati242 - TAMPONTAMPONA",
+   "rank": null,
+   "value": 1100819,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ati242--tampontampona"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Ahiyan - Rüya Gibiydin",
+   "rank": null,
+   "value": 1082490,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ahiyan--ruya-gibiydin"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Sherine - Tebaa'n Tebaa'n",
+   "rank": null,
+   "value": 1066323,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-sherine--tebaan-tebaan"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Davido - B4 B4",
+   "rank": null,
+   "value": 1046551,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-davido--b4-b4"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Latto - Okayyy (feat. Doja Cat)",
+   "rank": null,
+   "value": 1042693,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-latto--okayyy"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Göksel - Sen Orda Yoksun (Live)",
+   "rank": null,
+   "value": 1042505,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-goksel--sen-orda-yoksun-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Alpi - Tesadüfümsün (Live)",
+   "rank": null,
+   "value": 1042254,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-alpi--tesadufumsun-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "KAROL G - Alguien que te amaba",
+   "rank": null,
+   "value": 1040192,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-karol-g--alguien-que-te-amaba"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Ari Ozawa - うさぎラップ (リズム感のある者たちver.)",
+   "rank": null,
+   "value": 1031516,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ari-ozawa--うさき-ラッフ"
+  },
+  {
+   "platform": "youtube",
+   "raw": "M!LK - テレパシー(Live)",
+   "rank": null,
+   "value": 1028618,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-m-lk--テレハ-シー-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Junior H - DEMENCIA",
+   "rank": null,
+   "value": 1026121,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-junior-h--demencia"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Elif Buse Doğan - Kaçsam Gitsem",
+   "rank": null,
+   "value": 1025513,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-elif-buse-dogan--kacsam-gitsem"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Deeperise - Raf (feat. Jabbar)",
+   "rank": null,
+   "value": 1024498,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-deeperise--raf"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Onur Atmaca - Oy Dedim",
+   "rank": null,
+   "value": 1023970,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-onur-atmaca--oy-dedim"
+  },
+  {
+   "platform": "youtube",
+   "raw": "M!LK - Kiss Plan",
+   "rank": null,
+   "value": 1022484,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-m-lk--kiss-plan"
+  },
+  {
+   "platform": "youtube",
+   "raw": "KAROL G - Si lo ven",
+   "rank": null,
+   "value": 1021592,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-karol-g--si-lo-ven"
+  },
+  {
+   "platform": "youtube",
+   "raw": "rusino - ループザルーム (feat. Hatsune Miku)",
+   "rank": null,
+   "value": 1019166,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-rusino--ルーフ-サ-ルーム"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Mollie Elizabeth - Run Rabbit",
+   "rank": null,
+   "value": 1006169,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-mollie-elizabeth--run-rabbit"
+  },
+  {
+   "platform": "youtube",
+   "raw": "KAROL G - MATADORA",
+   "rank": null,
+   "value": 1002167,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-karol-g--matadora"
+  },
+  {
+   "platform": "youtube",
+   "raw": "DAOKO - 打上花火",
+   "rank": null,
+   "value": 1001972,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-daoko--打上花火"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Mabel Matiz - Umrumdışı",
+   "rank": null,
+   "value": 1000193,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-mabel-matiz--umrumdısı"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Pooh Shiesty - McLaren Truck",
+   "rank": null,
+   "value": 998765,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-pooh-shiesty--mclaren-truck"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Drake - Shabang",
+   "rank": null,
+   "value": 993973,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-drake--shabang"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Hermanos Espinoza - FREESTYLE",
+   "rank": null,
+   "value": 989403,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-hermanos-espinoza--freestyle"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Pooh Shiesty - Trip",
+   "rank": null,
+   "value": 988484,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-pooh-shiesty--trip"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Simge - Misafir",
+   "rank": null,
+   "value": 988084,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-simge--misafir"
+  },
+  {
+   "platform": "youtube",
+   "raw": "STOSLIV - Don't tell your dreams",
+   "rank": null,
+   "value": 987061,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-stosliv--dont-tell-your-dreams"
+  },
+  {
+   "platform": "youtube",
+   "raw": "SixTONES - マイオンリー",
+   "rank": null,
+   "value": 980516,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-sixtones--マイオンリー"
+  },
+  {
+   "platform": "youtube",
+   "raw": "KAROL G - Ahí",
+   "rank": null,
+   "value": 980245,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-karol-g--ahi"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Cansever - Sen De Gittin",
+   "rank": null,
+   "value": 980120,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-cansever--sen-de-gittin"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Rahma Mohsen - سر وجعنا",
+   "rank": null,
+   "value": 978825,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-rahma-mohsen--سر-وجعنا"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Lil Tecca - Ransom",
+   "rank": null,
+   "value": 977062,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-lil-tecca--ransom"
+  },
+  {
+   "platform": "youtube",
+   "raw": "natori - セレナーデ(Live)",
+   "rank": null,
+   "value": 976630,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-natori--セレナーテ-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Cansever - Kime Bu İnat",
+   "rank": null,
+   "value": 969877,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-cansever--kime-bu-inat"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Spitz - 見知らぬ糸",
+   "rank": null,
+   "value": 968956,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-spitz--見知らぬ糸"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Fiend - Don't Freestyle",
+   "rank": null,
+   "value": 964210,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-fiend--dont-freestyle"
+  },
+  {
+   "platform": "youtube",
+   "raw": "El De Las R's - Beretta (De Los Cerros La Escuela)",
+   "rank": null,
+   "value": 962347,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-el-de-las-rs--beretta"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Adanali Ayhan - Silah Olur Patlarım",
+   "rank": null,
+   "value": 957980,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-adanali-ayhan--silah-olur-patlarım"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Dolly Babe - Pink Blush",
+   "rank": null,
+   "value": 957971,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-dolly-babe--pink-blush"
+  },
+  {
+   "platform": "youtube",
+   "raw": "The Animals - House of the Rising Sun",
+   "rank": null,
+   "value": 954527,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-the-animals--house-of-the-rising-sun"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Emir - Makina",
+   "rank": null,
+   "value": 953329,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-emir--makina"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Fenix Flexin - RUBBERZ",
+   "rank": null,
+   "value": 952652,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-fenix-flexin--rubberz"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Müslüm Gürses - Tutamıyorum Zamanı",
+   "rank": null,
+   "value": 952296,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-muslum-gurses--tutamıyorum-zamanı"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Plain White T's - Hey There Delilah",
+   "rank": null,
+   "value": 949581,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-plain-white-ts--hey-there-delilah"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Charlie Puth - Dangerously",
+   "rank": null,
+   "value": 942384,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-charlie-puth--dangerously"
+  },
+  {
+   "platform": "youtube",
+   "raw": "KAVAK - Sorma",
+   "rank": null,
+   "value": 942273,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-kavak--sorma"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Dexter and The Moonrocks - Freakin’ Out",
+   "rank": null,
+   "value": 934382,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-dexter-and-the-moonrocks--freakin-out"
+  },
+  {
+   "platform": "youtube",
+   "raw": "System of A Down - Chop Suey!",
+   "rank": null,
+   "value": 931558,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-system-of-a-down--chop-suey"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Fatt Smaxk - Butta B",
+   "rank": null,
+   "value": 931289,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-fatt-smaxk--butta-b"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Nickelback - How You Remind Me",
+   "rank": null,
+   "value": 931018,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-nickelback--how-you-remind-me"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Yoan Retro - Despues de las 12",
+   "rank": null,
+   "value": 928386,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-yoan-retro--despues-de-las-12"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Hurricane Wisdom - YK Where It's Goin",
+   "rank": null,
+   "value": 922967,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-hurricane-wisdom--yk-where-its-goin"
+  },
+  {
+   "platform": "youtube",
+   "raw": "KAVAK - RDM",
+   "rank": null,
+   "value": 918938,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-kavak--rdm"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Fatima Ymeri - Yll Perri",
+   "rank": null,
+   "value": 916657,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-fatima-ymeri--yll-perri"
+  },
+  {
+   "platform": "youtube",
+   "raw": "ARASHI - Five",
+   "rank": null,
+   "value": 910104,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-arashi--five"
+  },
+  {
+   "platform": "youtube",
+   "raw": "NMIXX - Heavy Serenade",
+   "rank": null,
+   "value": 908930,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-nmixx--heavy-serenade"
+  },
+  {
+   "platform": "youtube",
+   "raw": "tuki. - 晩餐歌",
+   "rank": null,
+   "value": 906508,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-tuki--晩餐歌"
+  },
+  {
+   "platform": "youtube",
+   "raw": "ACIOĞLU - Bir Daha Sevmek Yok",
+   "rank": null,
+   "value": 896736,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-acioglu--bir-daha-sevmek-yok"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Alya Music Lab - Beyaz Olamadım Ama Karada Değilim (feat. Arya Arıkan & Anatolian Trance)",
+   "rank": null,
+   "value": 896059,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-alya-music-lab--beyaz-olamadım-ama-karada-degilim"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Nur Cennet - Sana Yar Diyemem",
+   "rank": null,
+   "value": 893885,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-nur-cennet--sana-yar-diyemem"
+  },
+  {
+   "platform": "youtube",
+   "raw": "M!LK - 真・運命",
+   "rank": null,
+   "value": 889069,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-m-lk--真-運命"
+  },
+  {
+   "platform": "youtube",
+   "raw": "M!LK - チラチLOVE (Live)",
+   "rank": null,
+   "value": 887343,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-m-lk--チラチlove-live"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Candan Erçetin - Yalan",
+   "rank": null,
+   "value": 886556,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-candan-ercetin--yalan"
+  },
+  {
+   "platform": "youtube",
+   "raw": "BE:FIRST - Missing",
+   "rank": null,
+   "value": 886497,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-be-first--missing"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Semicenk - Geçiyor Zaman",
+   "rank": null,
+   "value": 886091,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-semicenk--geciyor-zaman"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Yener Çevik - Senle Zor",
+   "rank": null,
+   "value": 876776,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-yener-cevik--senle-zor"
+  },
+  {
+   "platform": "youtube",
+   "raw": "HANRORO - 입춘",
+   "rank": null,
+   "value": 874667,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-hanroro--입춘"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Wasureranneyo - なんもねえ",
+   "rank": null,
+   "value": 846871,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-wasureranneyo--なんもねえ"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Simge - Üzülmedin mi",
+   "rank": null,
+   "value": 842524,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-simge--uzulmedin-mi"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Sakiler - Canıma Minnet",
+   "rank": null,
+   "value": 836052,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-sakiler--canıma-minnet"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Ebru Yaşar - Kafamın İçi",
+   "rank": null,
+   "value": 835681,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-ebru-yasar--kafamın-ici"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Tamer Hosny - Ma Teegy",
+   "rank": null,
+   "value": 829190,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-tamer-hosny--ma-teegy"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Engin Nurşani - Adına Bir Çizik Çektim",
+   "rank": null,
+   "value": 827390,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-engin-nursani--adına-bir-cizik-cektim"
+  },
+  {
+   "platform": "youtube",
+   "raw": "back number - ブルーアンバー",
+   "rank": null,
+   "value": 826377,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-back-number--フ-ルーアンハ-ー"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Sibel Can - Kıskıvrak",
+   "rank": null,
+   "value": 824431,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-sibel-can--kıskıvrak"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Tuğrul Bektaş - Burda Geceler",
+   "rank": null,
+   "value": 824137,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-tugrul-bektas--burda-geceler"
+  },
+  {
+   "platform": "youtube",
+   "raw": "AURA - Tuzak",
+   "rank": null,
+   "value": 823746,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-aura--tuzak"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Semicenk - Sende Kalmış",
+   "rank": null,
+   "value": 821091,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-semicenk--sende-kalmıs"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Tani Yuuki - W / X / Y",
+   "rank": null,
+   "value": 819160,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-tani-yuuki--w-x-y"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Melike Sahin - Ortak",
+   "rank": null,
+   "value": 818665,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-melike-sahin--ortak"
+  },
+  {
+   "platform": "youtube",
+   "raw": "Lil Naay - UNA BABY EN SANTIAGO",
+   "rank": null,
+   "value": 815407,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-lil-naay--una-baby-en-santiago"
+  },
+  {
+   "platform": "youtube",
+   "raw": "NMIXX - Blue Valentine",
+   "rank": null,
+   "value": 809397,
+   "reason": "no_candidate",
+   "candidates": [],
+   "createdId": "n-nmixx--blue-valentine"
+  }
+ ],
+ "fuzzy": [
+  {
+   "platform": "youtube",
+   "raw": "Katy Perry - The One That Got Away",
+   "matchedTo": "sp-2009X8GyWTqyxIdzAEYW6N",
+   "matchedTitle": "The One That Got Away",
+   "method": "ambiguous"
+  },
+  {
+   "platform": "youtube",
+   "raw": "JIKKS - SUMMER #1",
+   "matchedTo": "n-jikks--summer-4",
+   "matchedTitle": "SUMMER #4",
+   "method": "fuzzy"
+  }
+ ]
+}
