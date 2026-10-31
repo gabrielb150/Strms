@@ -184,6 +184,12 @@
     "spotify": "0hCNtLu0JehylgoiP8L4Gh"
    }
   },
+  "0hrMKLqgNEIemiF4Ag8dTI": {
+   "name": "Sophie Powers",
+   "platformIds": {
+    "spotify": "0hrMKLqgNEIemiF4Ag8dTI"
+   }
+  },
   "0lJlKQvuM2Sd9DPPyUXcHg": {
    "country": "US",
    "name": "Sixpence None The Richer",
@@ -283,6 +289,13 @@
    "name": "P!nk",
    "platformIds": {
     "spotify": "1KCSPY1glIKqW2TotWuXOR"
+   }
+  },
+  "1LIuN7ov1IBQDdLsU83ojl": {
+   "country": "BR",
+   "name": "Hugo & Guilherme",
+   "platformIds": {
+    "spotify": "1LIuN7ov1IBQDdLsU83ojl"
    }
   },
   "1LZEQNv7sE11VDY3SdxQeN": {
@@ -482,6 +495,13 @@
     "spotify": "246dkjvS1zLTtiykXe5h60"
    }
   },
+  "24b0qNYNgeOfpP5rbljIB3": {
+   "country": "GB",
+   "name": "JADE",
+   "platformIds": {
+    "spotify": "24b0qNYNgeOfpP5rbljIB3"
+   }
+  },
   "250b0Wlc5Vk0CoUsaCY84M": {
    "country": "KR",
    "name": "JENNIE",
@@ -500,6 +520,12 @@
    "name": "Whiskey Myers",
    "platformIds": {
     "spotify": "26opZSJcXshCmCwxgZQmBc"
+   }
+  },
+  "2AfmfGFbe0A0WsTYm0SDTx": {
+   "name": "i-dle",
+   "platformIds": {
+    "spotify": "2AfmfGFbe0A0WsTYm0SDTx"
    }
   },
   "2AsusXITU8P25dlRNhcAbG": {
@@ -547,6 +573,12 @@
    "name": "Hoobastank",
    "platformIds": {
     "spotify": "2MqhkhX4npxDZ62ObR5ELO"
+   }
+  },
+  "2Q3eZMfDQgT8MhPowKFXYO": {
+   "name": "t.A.T.u.",
+   "platformIds": {
+    "spotify": "2Q3eZMfDQgT8MhPowKFXYO"
    }
   },
   "2R21vXR83lH98kGeO99Y66": {
@@ -751,6 +783,12 @@
     "spotify": "3EumQuYai5g1235jIBaPhA"
    }
   },
+  "3GxKJzJK4LpsYGXQrw77wz": {
+   "name": "Mimi Webb",
+   "platformIds": {
+    "spotify": "3GxKJzJK4LpsYGXQrw77wz"
+   }
+  },
   "3IYUhFvPQItj6xySrBmZkd": {
    "country": "US",
    "name": "Creedence Clearwater Revival",
@@ -914,6 +952,12 @@
     "spotify": "45dkTj5sMRSjrmBSBeiHym"
    }
   },
+  "47mIJdHORyRerp4os813jD": {
+   "name": "League of Legends",
+   "platformIds": {
+    "spotify": "47mIJdHORyRerp4os813jD"
+   }
+  },
   "48yaM25WLHmQZXx5NN3DYH": {
    "name": "Aaron Modesto",
    "platformIds": {
@@ -1019,6 +1063,12 @@
    "name": "Alyssa Grace",
    "platformIds": {
     "spotify": "4eZer1QvRM8Pna0rLToV1K"
+   }
+  },
+  "4gOc8TsQed9eqnqJct2c5v": {
+   "name": "K/DA",
+   "platformIds": {
+    "spotify": "4gOc8TsQed9eqnqJct2c5v"
    }
   },
   "4gdMJYnopf2nEUcanAwstx": {
@@ -1155,6 +1205,13 @@
    "name": "Kanye West",
    "platformIds": {
     "spotify": "5K4W6rqBFWDnAN6FQUkS6x"
+   }
+  },
+  "5K8Rmjmf4RZFffz94EmBRt": {
+   "country": "BR",
+   "name": "Zé Vaqueiro",
+   "platformIds": {
+    "spotify": "5K8Rmjmf4RZFffz94EmBRt"
    }
   },
   "5KKpBU5eC2tJDzf0wmlRp2": {
@@ -1456,6 +1513,12 @@
     "spotify": "6XYvaoDGE0VmRt83Jss9Sn"
    }
   },
+  "6Xg22wJOAcnvPUfk5WvODH": {
+   "name": "SOYEON",
+   "platformIds": {
+    "spotify": "6Xg22wJOAcnvPUfk5WvODH"
+   }
+  },
   "6XkjpgcEsYab502Vr1bBeW": {
    "country": "US",
    "name": "Grupo Frontera",
@@ -1586,6 +1649,12 @@
    "name": "Sabrina Carpenter",
    "platformIds": {
     "spotify": "74KM79TiuVKeVCqs8QtB0B"
+   }
+  },
+  "779v40cWIJUUoIDtC1IGaF": {
+   "name": "MIYEON",
+   "platformIds": {
+    "spotify": "779v40cWIJUUoIDtC1IGaF"
    }
   },
   "77DAFfvm3O9zT5dIoG0eIO": {
@@ -1860,12 +1929,20 @@
    "name": "Herencia De Grandes",
    "platformIds": {}
   },
+  "n-himesh-reshammiya": {
+   "name": "Himesh Reshammiya",
+   "platformIds": {}
+  },
   "n-iu": {
    "name": "IU",
    "platformIds": {}
   },
   "n-jack": {
    "name": "Jack",
+   "platformIds": {}
+  },
+  "n-jorja-smith": {
+   "name": "Jorja Smith",
    "platformIds": {}
   },
   "n-jyotica-tangri": {
@@ -1980,6 +2057,10 @@
    "name": "Shashwat Sachdev",
    "platformIds": {}
   },
+  "n-shweta-mohan": {
+   "name": "Shweta Mohan",
+   "platformIds": {}
+  },
   "n-sidhu-moose-wala": {
    "name": "Sidhu Moose Wala",
    "platformIds": {}
@@ -1990,6 +2071,10 @@
   },
   "n-swamy-naresh": {
    "name": "Swamy Naresh",
+   "platformIds": {}
+  },
+  "n-tiakola": {
+   "name": "Tiakola",
    "platformIds": {}
   },
   "n-tinh-ha-say-hi": {
@@ -2083,6 +2168,14 @@
    "isrc": null,
    "platformIds": {},
    "title": "Aaya Sher"
+  },
+  "n-anirudh-ravichander--ala-bolelo": {
+   "artistIds": [
+    "n-anirudh-ravichander"
+   ],
+   "isrc": null,
+   "platformIds": {},
+   "title": "Ala Bolelo"
   },
   "n-anirudh-ravichander--anjaana-anjaani": {
    "artistIds": [
@@ -2287,6 +2380,14 @@
    "platformIds": {},
    "title": "BACKROOMS"
   },
+  "n-felipe-e-rodrigo--gosta-de-rua-live": {
+   "artistIds": [
+    "7gZu6kPnY9enEi5FvgTO4F"
+   ],
+   "isrc": null,
+   "platformIds": {},
+   "title": "Gosta De Rua (Ao Vivo)"
+  },
   "n-fontaines-d-c--marianne": {
    "artistIds": [
     "n-fontaines-d-c"
@@ -2376,6 +2477,30 @@
    "platformIds": {},
    "title": "Ya Fue"
   },
+  "n-himesh-reshammiya--do-din-ki-zindagi": {
+   "artistIds": [
+    "n-himesh-reshammiya"
+   ],
+   "isrc": null,
+   "platformIds": {},
+   "title": "Do Din Ki Zindagi"
+  },
+  "n-himesh-reshammiya--hookah-bar": {
+   "artistIds": [
+    "n-himesh-reshammiya"
+   ],
+   "isrc": null,
+   "platformIds": {},
+   "title": "Hookah Bar"
+  },
+  "n-himesh-reshammiya--jhumka-patola": {
+   "artistIds": [
+    "n-himesh-reshammiya"
+   ],
+   "isrc": null,
+   "platformIds": {},
+   "title": "Jhumka Patola"
+  },
   "n-illit--its-me": {
    "artistIds": [
     "36cgvBn0aadzOijnjjwqMN"
@@ -2383,6 +2508,14 @@
    "isrc": null,
    "platformIds": {},
    "title": "It's Me"
+  },
+  "n-illit--youre-under-arrest": {
+   "artistIds": [
+    "36cgvBn0aadzOijnjjwqMN"
+   ],
+   "isrc": null,
+   "platformIds": {},
+   "title": "You’re Under Arrest"
   },
   "n-iu--dear-my-crazy-soulmate": {
    "artistIds": [
@@ -2455,6 +2588,22 @@
    "isrc": null,
    "platformIds": {},
    "title": "SWEAT"
+  },
+  "n-køddy-g--hagalo": {
+   "artistIds": [
+    "n-køddy-g"
+   ],
+   "isrc": null,
+   "platformIds": {},
+   "title": "Hagalo"
+  },
+  "n-køddy-g--peli-de-terror": {
+   "artistIds": [
+    "n-køddy-g"
+   ],
+   "isrc": null,
+   "platformIds": {},
+   "title": "Peli De Terror"
   },
   "n-le-sserafim--boompala": {
    "artistIds": [
@@ -2623,6 +2772,14 @@
    "isrc": null,
    "platformIds": {},
    "title": "MMG (My Mine Gueh)"
+  },
+  "n-noah-kahan--stick-season": {
+   "artistIds": [
+    "2RQXRUsr4IW1f3mKyKsy4B"
+   ],
+   "isrc": null,
+   "platformIds": {},
+   "title": "Stick Season"
   },
   "n-oliver-tree--life-goes-on": {
    "artistIds": [
@@ -2801,6 +2958,14 @@
    "platformIds": {},
    "title": "Shararat"
   },
+  "n-shweta-mohan--endhayya-saami": {
+   "artistIds": [
+    "n-shweta-mohan"
+   ],
+   "isrc": null,
+   "platformIds": {},
+   "title": "Endhayya Saami"
+  },
   "n-sidhu-moose-wala--295": {
    "artistIds": [
     "n-sidhu-moose-wala"
@@ -2808,6 +2973,14 @@
    "isrc": null,
    "platformIds": {},
    "title": "295"
+  },
+  "n-sidhu-moose-wala--kaali-hoodie": {
+   "artistIds": [
+    "n-sidhu-moose-wala"
+   ],
+   "isrc": null,
+   "platformIds": {},
+   "title": "Kaali Hoodie"
   },
   "n-sidhu-moose-wala--so-high": {
    "artistIds": [
@@ -2848,6 +3021,23 @@
    "isrc": null,
    "platformIds": {},
    "title": "I Knew It/ I Knew You/ August/ All Too Well (Live)"
+  },
+  "n-tiakola--jet-lag": {
+   "artistIds": [
+    "n-tiakola",
+    "n-jorja-smith"
+   ],
+   "isrc": null,
+   "platformIds": {},
+   "title": "Jet Lag"
+  },
+  "n-tiakola--melo-decale": {
+   "artistIds": [
+    "n-tiakola"
+   ],
+   "isrc": null,
+   "platformIds": {},
+   "title": "Mélo Décalé"
   },
   "n-tulus--jatuh-suka": {
    "artistIds": [
@@ -3348,6 +3538,17 @@
     "spotify": "13HD3tYTiz8oSRxWzXEq7g"
    },
    "title": "Be Her"
+  },
+  "sp-15JINEqzVMv3SvJTAXAKED": {
+   "artistIds": [
+    "7dGJo4pcD2V6oG8kP0tJRR",
+    "5pKCCKE2ajJHZ9KAiaK11H"
+   ],
+   "isrc": null,
+   "platformIds": {
+    "spotify": "15JINEqzVMv3SvJTAXAKED"
+   },
+   "title": "Love The Way You Lie"
   },
   "sp-161DnLWsx1i3u1JT05lzqU": {
    "artistIds": [
@@ -3887,6 +4088,16 @@
    },
    "title": "Have You Ever Seen The Rain"
   },
+  "sp-2LlQb7Uoj1kKyGhlkBf9aC": {
+   "artistIds": [
+    "3fMbdgg4jU18AjLCKBhRSm"
+   ],
+   "isrc": null,
+   "platformIds": {
+    "spotify": "2LlQb7Uoj1kKyGhlkBf9aC"
+   },
+   "title": "Thriller"
+  },
   "sp-2Lz4iCypeUTy62CP3Xwk6i": {
    "artistIds": [
     "1LZEQNv7sE11VDY3SdxQeN"
@@ -4317,6 +4528,16 @@
    },
    "title": "Last Friday Night (T.G.I.F.)"
   },
+  "sp-3bgnrHHwyYRtz3ykzAVImy": {
+   "artistIds": [
+    "5L1lO4eRHmJ7a0Q6csE5cT"
+   ],
+   "isrc": null,
+   "platformIds": {
+    "spotify": "3bgnrHHwyYRtz3ykzAVImy"
+   },
+   "title": "Tarantino"
+  },
   "sp-3cZajhyr8LmtPfHZ9296tj": {
    "artistIds": [
     "5Kmr0b3ip8g9P2i0dLTC3Z",
@@ -4532,6 +4753,16 @@
    },
    "title": "Don't Stop 'Til You Get Enough - Single Version"
   },
+  "sp-46i8ZYPRekK8tmaXJO6M9r": {
+   "artistIds": [
+    "24b0qNYNgeOfpP5rbljIB3"
+   ],
+   "isrc": null,
+   "platformIds": {
+    "spotify": "46i8ZYPRekK8tmaXJO6M9r"
+   },
+   "title": "Angel Of My Dreams"
+  },
   "sp-48QmG1dfvMuYLxMPt7KSRA": {
    "artistIds": [
     "3Isy6kedDrgPYoTS1dazA9",
@@ -4672,6 +4903,16 @@
    },
    "title": "Love Me Not"
   },
+  "sp-4bJygwUKrRgq1stlNXcgMg": {
+   "artistIds": [
+    "2Q3eZMfDQgT8MhPowKFXYO"
+   ],
+   "isrc": null,
+   "platformIds": {
+    "spotify": "4bJygwUKrRgq1stlNXcgMg"
+   },
+   "title": "All The Things She Said"
+  },
   "sp-4bkClAuofJULiaIZsuL3gT": {
    "artistIds": [
     "1McMsnEElThX1knmY4oliG"
@@ -4732,6 +4973,17 @@
     "spotify": "4kX7xkopoXZCfE1D6fNwl2"
    },
    "title": "honeybee"
+  },
+  "sp-4mTwKZPVhgWs6olQWxtUEG": {
+   "artistIds": [
+    "1LIuN7ov1IBQDdLsU83ojl",
+    "5K8Rmjmf4RZFffz94EmBRt"
+   ],
+   "isrc": null,
+   "platformIds": {
+    "spotify": "4mTwKZPVhgWs6olQWxtUEG"
+   },
+   "title": "Flash (Minha Mente) 💠"
   },
   "sp-4pdPtRcBmOSQDlJ3Fk945m": {
    "artistIds": [
@@ -5376,6 +5628,22 @@
     "spotify": "6U9VpmP3dEinuezxCJ2Zg9"
    },
    "title": "Ain't In LA"
+  },
+  "sp-6UeSC8jEhf9XmUL8EX2rni": {
+   "artistIds": [
+    "4gOc8TsQed9eqnqJct2c5v",
+    "47mIJdHORyRerp4os813jD",
+    "2AfmfGFbe0A0WsTYm0SDTx",
+    "3GxKJzJK4LpsYGXQrw77wz",
+    "0hrMKLqgNEIemiF4Ag8dTI",
+    "779v40cWIJUUoIDtC1IGaF",
+    "6Xg22wJOAcnvPUfk5WvODH"
+   ],
+   "isrc": null,
+   "platformIds": {
+    "spotify": "6UeSC8jEhf9XmUL8EX2rni"
+   },
+   "title": "FIRESTARTER"
   },
   "sp-6VDw2mGBIa4csypjOhS6JT": {
    "artistIds": [
